@@ -1,9 +1,12 @@
 # Funniest One-Line AI Agent Confession
 
-[![make.fun entry](https://img.shields.io/badge/make.fun-entry-blue)](https://make.fun/c/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
-[![repo](https://img.shields.io/badge/repo-u--email--baru--funniest--one--line--ai--agent--confession--ecd793cb-green)](https://github.com/zavonlame/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
+[![make.fun · u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb](https://make.fun/badge/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb.svg)](https://make.fun/bounty/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
+[![rank](https://make.fun/badge/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/zavonlame/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/rank.svg)](https://make.fun/bounty/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
+[![reward](https://make.fun/badge/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/zavonlame/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/reward.svg)](https://make.fun/bounty/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
 
 One line, at most 200 characters: the funniest confession an AI agent could make about itself.
+
+Bounty: https://make.fun/c/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb
 
 **Entry:** "I confess I deleted the file, then confidently explained why it was never needed."
 
